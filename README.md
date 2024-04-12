@@ -2,7 +2,7 @@
 
 This is a sample application for the [Integration and Verification Techniques](http://www.mit.bme.hu/oktatas/targyak/vimiac04) course at BME MIT.
 
-The application is simplified and deliberately contains bugs.
+The starter application is simplified and deliberately contains bugs.
 
 ## Getting started
 
@@ -11,9 +11,6 @@ The application is simplified and deliberately contains bugs.
 - [JUnit](https://junit.org/junit5/) is used for tests, and [Mockito](https://site.mockito.org/) for isolating dependencies.
 
 Clone the repository and execute Maven to build the application:
-
-
-
 
 ```
 mvn compile
